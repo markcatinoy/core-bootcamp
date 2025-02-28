@@ -1,0 +1,12 @@
+{
+    "name": "PiR8s",
+    "description": "Be savvyyyy and learn how to parlay",
+    "symbol": "P8S",
+    "image": "https://imgur.com/a/Kw03opY.jpeg",
+    "attributes": [
+        {
+            "trait_type": "MOVIE",
+            "value": "Goldy"
+        }
+    ]
+}
